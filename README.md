@@ -1,3 +1,23 @@
 # ZenScholar
+## Important Note
 The .aia file is not the complete product. Certain media files (mostly audio/song files) were removed to reduce file size within AppInventor export requirements.
 Apart from this minor difference, the file can be considered finished and is fully functional for testing purposes.
+
+## Problem Statement
+The problem is that students aged 13-17 are vulnerable to stress from academic work and school grades, affecting their mental health and well-being.
+This problem must be solved. According to Cross River Therapy, 61% of students aged 13-17 feel stressed about their grades (“47 Student Stress Statistics (High School/College)”). Furthermore, a survey conducted by the American Psychological Association, with a sample size of 2,968, found that 83% of teenagers (aged 13-17) considered school as “a somewhat or significant source of stress”, with 27% of these students experiencing “extreme stress” as a result of school (Shapiro).
+Stress can result in a variety of mental and physical symptoms, including anxiety, restlessness, a lack of motivation or focus, depression, headaches, muscle tension, sleep problems, drug or alcohol misuse, changes in diet, angry outbursts, and many more (“How Stress Affects Your Body and Behavior”).
+This affects me on a personal level, as I get stressed as a result of homework and grades, affecting my mindset and increasing how often I procrastinate. According to the McLean Hospital, procrastination is commonly caused by the fear of a negative or unknown outcome. (“The Real Reason You’re Procrastinating | McLean Hospital”)
+If school stress is to continue, it could have a profound impact on the behaviour of students, affecting their academics, social life, and people around them, which would be highly detrimental for the society. In contrast, if the problem of school stress is solved or reduced, students would feel less depressed, focus more, and be more motivated, allowing students to perform better in school, as well as out of school.
+This could have a greatly positive impact on the society, allowing young students in the this generation, as well as in future generations, to destress, allowing them to manage their time better, procrastinate less, and be more productive, giving students the opportunity to strive to achieve greater heights.
+
+## User Needs and Preferences
+My target audience are students aged 13-17, who get stressed from school. They have many specific needs, including better time management skills, less stress, and better organization so that they can manage their time more effectively. Better organization can come in the form of a schedule or timetable for better time management, and the user’s need for less stress can be achieved through healthy activities that cope with stress, such as mindfulness and sports. After conducting a survey using google forms to collect results on school stress, I learned that the majority of students stress stemmed from Homework/Workload/Meeting Deadlines. Moreover, the most effective method students find to cope with stress is sports. Therefore, users have a preference to cope with Homework/Workload/Meeting Deadlines through sports. The specific research is shown in the next slide.
+
+When designing a mobile app for students, some user preferences I may need to consider are readability, UI design, and how self-explanatory the product is. Readability can be achieved by minimizing the amount of words or data the user is shown on the screen at a time. Users may also prefer simple and straightforward UI design, to clearly indicate the purpose of each UI, and to make the app more self-explanatory and accessible to the average student aged 13-17.
+
+## Works Cited
+“47 Student Stress Statistics (High School/College).” Crossrivertherapy.com, 2023, www.crossrivertherapy.com/student-stress-statistics#:~:text=Student%20Stress%20Statistics-,45%25%20of%20students%20in%20high%20school%20admit%20to%20being%20stressed,school%20students%20felt%20the%20same. Accessed 17 Jan. 2024.
+“How Stress Affects Your Body and Behavior.” Mayo Clinic, 2023, www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-symptoms/art-20050987. Accessed 17 Jan. 2024.
+Shapiro, Margaret. “Stressed-out Teens, with School a Main Cause.” Washington Post, The Washington Post, 18 Feb. 2014, www.washingtonpost.com/national/health-science/stressed-out-teens-with-school-a-main-cause/2014/02/14/d3b8ab56-9425-11e3-84e1-27626c5ef5fb_story.html. Accessed 17 Jan. 2024.
+“The Real Reason You’re Procrastinating | McLean Hospital.” Mcleanhospital.org, 4 Dec. 2022, www.mcleanhospital.org/essential/procrastination#:~:text=One%20of%20the%20most%20common,may%20also%20fear%20being%20criticized. Accessed 31 Jan. 2024.
